@@ -175,6 +175,8 @@ Tools for Xcode.
 5. (On Linux/BSD) Copy or move the SDK into the tarballs/ directory of
    OSXCross.
 
+*Note*: https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file
+
 \*\*  
 -- Xcode up to 12.5 Beta 3 is known to work.  
 -- Use Firefox if you have problems signing in.
